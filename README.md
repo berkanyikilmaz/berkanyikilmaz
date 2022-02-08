@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Berkan Yıkılmaz</h1>
-<h3 align="center">A first year student at Bilkent University Computer Engineering Department</h3>
+<h3 align="center">A first year Computer Engineering student at Bilkent University</h3>
 
 I am currently working on some projects related to game development.
 
